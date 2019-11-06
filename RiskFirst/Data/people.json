@@ -1,0 +1,24 @@
+[
+  {
+    "firstname": "John",
+    "lastname": "Smith",
+    "streetaddress": "Test St 1",
+    "city": "London",
+    "country": "England"
+  },
+  {
+    "firstname": "Tim",
+    "lastname": "Jones",
+    "streetaddress": "Test St 3",
+    "city": "New York",
+    "country": "USA"
+  },
+  {
+    "firstname": "Jane",
+    "lastname": "Doe",
+    "streetaddress": "Test St 2",
+    "city": "london",
+    "country": "England"
+  }
+
+]

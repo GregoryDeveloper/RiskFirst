@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RiskFirst", "RiskFirst\RiskFirst.csproj", "{0A4C8245-61B8-4F5B-8803-2D9A4F0C7B3A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTestRiskFirst", "UnitTestRiskFirst\UnitTestRiskFirst.csproj", "{7939591E-D185-467F-B3DD-4337C3099906}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A4C8245-61B8-4F5B-8803-2D9A4F0C7B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A4C8245-61B8-4F5B-8803-2D9A4F0C7B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A4C8245-61B8-4F5B-8803-2D9A4F0C7B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A4C8245-61B8-4F5B-8803-2D9A4F0C7B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7939591E-D185-467F-B3DD-4337C3099906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7939591E-D185-467F-B3DD-4337C3099906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7939591E-D185-467F-B3DD-4337C3099906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7939591E-D185-467F-B3DD-4337C3099906}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {575CF256-70AD-4E86-AE97-5DAAD36B40EB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\Grégory\source\repos\RiskFirst\RiskFirst\bin\Debug\netcoreapp2.1\RiskFirst.deps.json
+C:\Users\Grégory\source\repos\RiskFirst\RiskFirst\bin\Debug\netcoreapp2.1\RiskFirst.runtimeconfig.json
+C:\Users\Grégory\source\repos\RiskFirst\RiskFirst\bin\Debug\netcoreapp2.1\RiskFirst.runtimeconfig.dev.json
+C:\Users\Grégory\source\repos\RiskFirst\RiskFirst\bin\Debug\netcoreapp2.1\RiskFirst.dll
+C:\Users\Grégory\source\repos\RiskFirst\RiskFirst\bin\Debug\netcoreapp2.1\RiskFirst.pdb
+C:\Users\Grégory\source\repos\RiskFirst\RiskFirst\obj\Debug\netcoreapp2.1\RiskFirst.csproj.CoreCompileInputs.cache
+C:\Users\Grégory\source\repos\RiskFirst\RiskFirst\obj\Debug\netcoreapp2.1\RiskFirst.RazorAssemblyInfo.cache
+C:\Users\Grégory\source\repos\RiskFirst\RiskFirst\obj\Debug\netcoreapp2.1\RiskFirst.RazorAssemblyInfo.cs
+C:\Users\Grégory\source\repos\RiskFirst\RiskFirst\obj\Debug\netcoreapp2.1\RiskFirst.AssemblyInfoInputs.cache
+C:\Users\Grégory\source\repos\RiskFirst\RiskFirst\obj\Debug\netcoreapp2.1\RiskFirst.AssemblyInfo.cs
+C:\Users\Grégory\source\repos\RiskFirst\RiskFirst\obj\Debug\netcoreapp2.1\RiskFirst.RazorTargetAssemblyInfo.cache
+C:\Users\Grégory\source\repos\RiskFirst\RiskFirst\obj\Debug\netcoreapp2.1\RiskFirst.dll
+C:\Users\Grégory\source\repos\RiskFirst\RiskFirst\obj\Debug\netcoreapp2.1\RiskFirst.pdb
+C:\Users\Grégory\source\repos\RiskFirst\RiskFirst\obj\Debug\netcoreapp2.1\RiskFirst.csprojAssemblyReference.cache
